@@ -1,1 +1,1 @@
-![User](img/user.png)
+![User](public/img/user.png)
